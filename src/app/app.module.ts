@@ -26,7 +26,7 @@ registerLocaleData(localePT);
     SharedModule,
     AppRouterModule,
     VentasModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
   ],
   providers: [
     {provide: LOCALE_ID, useValue:'es'}
